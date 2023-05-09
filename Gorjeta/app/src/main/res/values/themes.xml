@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Gorjeta" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/Green</item>
+        <item name="colorPrimaryDark">@color/blue</item>
+        <item name="colorAccent">@color/yellow</item>
+
+        <!-- Cor padrao de fundo das activities. -->
+        <item name="android:colorBackground">@color/Green</item>
+    </style>
+</resources>
