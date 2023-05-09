@@ -1,1 +1,1 @@
-# android_studio
+# Aplicativo de Gorjetas
